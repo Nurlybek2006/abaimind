@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742980597076",
+    "project_id": "abaimind",
+    "storage_bucket": "abaimind.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742980597076:android:fcab7f7ea08c21972ac4c1",
+        "android_client_info": {
+          "package_name": "com.example.abaimind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDM4gOX6BKvMevNMwjQ3p2f_40AUEjjMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
