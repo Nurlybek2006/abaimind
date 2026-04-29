@@ -12,7 +12,12 @@
           "package_name": "com.example.abaimind"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "742980597076-kvch6pme38r4rn9hne6r7ktom5ftng5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCDM4gOX6BKvMevNMwjQ3p2f_40AUEjjMk"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742980597076-kvch6pme38r4rn9hne6r7ktom5ftng5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
